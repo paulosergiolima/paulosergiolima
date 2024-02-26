@@ -4,4 +4,4 @@ Studied at ETEC Pirituba, developing IoT projects with ESP32 and Raspberry PI, c
 
 Currently learning about functional languages with elixir and phoenix, and using rust for systems programming.
 
-My close-to-completed original projects are pinned.
+My completed original projects are pinned.
